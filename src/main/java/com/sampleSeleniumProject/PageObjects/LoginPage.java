@@ -13,6 +13,8 @@ public class LoginPage extends Reusable_Logic {
 
 	// WebElement ele;
 	//initialcheckin
+	
+	//Checkingg
 
 	@FindBy(xpath = "//div/a[contains(@class,'login')]")
 	private WebElement signin;
